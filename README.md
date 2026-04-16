@@ -2,8 +2,6 @@
   
 # 🌟 Hello World! / Привет, мир! 👋
 
-<img src="https://readme-typed-svg.vercel.app?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=435&lines=Game+Designer+%26+Code+Wizard;3D+Modeler+%26+Creative+Soul;Femboy+%7C+She%2FThey;Slaying+bugs+%26+making+art" alt="Typing SVG" />
-
 ---
 
 </div>
