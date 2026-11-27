@@ -15,7 +15,6 @@
 ### 🇬🇧 English
 - 🎮 **Game Designer** & **Code Wrangler**
 - 🖌️ **3D Modeler** bringing ideas to life
-- 🏳️‍⚧️ **Femboy**
 - 🔥 Passionate about games, art & cute aesthetics
 
 </td>
@@ -24,7 +23,6 @@
 ### 🇷🇺 Русский
 - 🎮 **Гейм-дизайнер** & **коддер**
 - 🖌️ **3D-моделер** оживляю идеи
-- 🏳️‍⚧️ **Фембойчик**
 - 🔥 Люблю игры, искусство и эстетику
 
 </td>
